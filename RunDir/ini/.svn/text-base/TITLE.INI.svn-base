@@ -1,0 +1,57 @@
+[Title]
+ButtonStart=ini\title.ini
+ButtonLoad=ini\title.ini
+ButtonOption=ini\title.ini
+ButtonExit=ini\title.ini
+ButtonCount=4
+BackGroundFile=img\title.jpg
+
+[ButtonStart]
+X=0
+Y=0
+dX=422
+dY=133
+Width=100
+Height=20
+PosX=500
+PosY=400
+SingleFrame=1    //1为单帧 0为动画
+PicFileName=img\startbutton.png
+
+
+[ButtonLoad]
+X=0
+Y=0
+dX=422
+dY=133
+Width=100
+Height=20
+PosX=500
+PosY=450
+SingleFrame=1    //1为单帧 0为动画
+PicFileName=img\loadbutton.png
+
+[ButtonOption]
+X=0
+Y=0
+dX=422
+dY=133
+Width=100
+Height=20
+PosX=500
+PosY=500
+SingleFrame=1    //1为单帧 0为动画
+PicFileName=img\optionbutton.png
+
+
+[ButtonExit]
+X=0
+Y=0
+dX=422
+dY=133
+Width=100
+Height=20
+PosX=500
+PosY=550
+SingleFrame=1    //1为单帧 0为动画
+PicFileName=img\exitbutton.png
